@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulsemedShalo
 - 👀 interested in API Building and UI/UX Designing
-- 🌱 currently working as a digital strategist at cooperative Bank Of Oromia
+- 🌱 currently working as an associate Software Engineer at AwashBank
 - 💞️ enjoy Programming, Graphics Designing
 - 📫 you can reach me by Email: aishalo1sam@gmail.com
 
